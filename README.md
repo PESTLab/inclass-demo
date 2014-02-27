@@ -1,1 +1,1 @@
-This is a simple repo for demo purposes.
+This is a simple repository for demo purposes.
